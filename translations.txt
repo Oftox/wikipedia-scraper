@@ -1,0 +1,12 @@
+en
+Welcome to Wikipedia
+the free encyclopedia that anyone can edit.
+ja
+ウィキペディアへようこそ
+ウィキペディアは誰でも編集できるフリー百科事典です
+ru
+Добро пожаловать в Википедию,
+свободную энциклопедию, которую может редактировать каждый.
+fi
+Tervetuloa Wikipediaan,
+vapaaseen tietosanakirjaan.

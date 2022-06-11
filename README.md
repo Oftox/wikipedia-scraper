@@ -1,5 +1,6 @@
 # wikipedia-scraper
-Wikipedia scraper implemented in python with TUI and support for multiple languages.
+It is a Wikipedia scraper implemented in python with text-based user interface and support for multiple languages.
+
 It uses the "[requests](https://pypi.org/project/requests/)" library for scraping the HTML of wikipedia.org, and "[BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)" for parsing the HTML.
 
 ## Usage

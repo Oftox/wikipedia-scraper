@@ -12,5 +12,9 @@ Currently the supported abbreviations include: 'en' for English, 'ja' for Japane
 An example of usage: 
 `python3 main.py en`
 
-## Notice
+### Notice
 Files "languages.txt" and "translations.txt" are supposed to be read by the program, and thereby not intended to be read or tampered with by users.
+
+## Unimplemented Feratures
+  ꞏ  Download wikipedia articles to local computer.
+  ꞏ  Show related results to search.

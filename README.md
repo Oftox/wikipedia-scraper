@@ -4,7 +4,10 @@ It uses the "[requests](https://pypi.org/project/requests/)" library for scrapin
 
 ## Usage
 It can be used to search for wikipedia articles, and is basically a text-based Wikipedia client.
-wikipedia-scraper takes in one parameter, it is the language abbreviation used by wikipedia. Currently the supported abbreviations include: 'en' for English, 'ja' for Japanese, 'ru' for Russian and 'fi' for Finnish. 
+wikipedia-scraper takes in one parameter, it is the language abbreviation used by wikipedia. 
+
+Currently the supported abbreviations include: 'en' for English, 'ja' for Japanese, 'ru' for Russian and 'fi' for Finnish. 
+
 An example of usage: 
 `python3 main.py en`
 

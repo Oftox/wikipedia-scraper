@@ -15,6 +15,6 @@ An example of usage:
 ### Notice
 Files "languages.txt" and "translations.txt" are supposed to be read by the program, and thereby not intended to be read or tampered with by users.
 
-## Unimplemented Feratures
+## Unimplemented Features
   ꞏ  Download wikipedia articles to local computer.
   ꞏ  Show related results to search.

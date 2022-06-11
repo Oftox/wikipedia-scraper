@@ -17,4 +17,5 @@ Files "languages.txt" and "translations.txt" are supposed to be read by the prog
 
 ## Unimplemented Features
   ꞏ  Download wikipedia articles to local computer.
+  
   ꞏ  Show related results to search.

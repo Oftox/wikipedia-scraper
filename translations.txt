@@ -1,3 +1,6 @@
+pl
+Witaj w Wikipedii,
+wolnej encyklopedii, którą każdy może redagować.
 en
 Welcome to Wikipedia
 the free encyclopedia that anyone can edit.

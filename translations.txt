@@ -4,12 +4,54 @@ wolnej encyklopedii, którą każdy może redagować.
 en
 Welcome to Wikipedia
 the free encyclopedia that anyone can edit.
+it
+Benvenuti su Wikipedia
+L'enciclopedia libera e collaborativa
 ja
 ウィキペディアへようこそ
 ウィキペディアは誰でも編集できるフリー百科事典です
+ceb
+Wikipedya,
+ang libre ug gawasnong ensiklopedya.
+uk
+Ласкаво просимо до Вікіпедії,
+вільної енциклопедії, яку може редагувати кожен.
+zh
+维基百科
+人人可編輯的自由百科全書
+ar
+مرحبًا بكم في ويكيبيديا
+مشروع موسوعة حرة يستطيع الجميع تحريرها.
+es
+Bienvenidos a Wikipedia,
+la enciclopedia de contenido libre que todos pueden editar.
+arz
+ويكيبيديا
+مشروع موسوعه حره اى حد ممكن يساهم فى كتابتها.
+pt
+Boas-vindas à Wikipédia,
+a enciclopédia livre que todos podem editar.
+vi
+WIKIPEDIA TIẾNG VIỆT
+Bạn chính là tác giả của Wikipedia
+de
+Willkommen bei Wikipedia
+Wikipedia ist ein Projekt zum Aufbau einer Enzyklopädie aus freien Inhalten, zu denen du sehr gern beitragen kannst.
+fr
+Wikipedia
+L'encyclopédie libre que vous pouvez améliorer
+nl
+Welkom op Wikipedia
+De vrije encyclopedie
 ru
 Добро пожаловать в Википедию,
 свободную энциклопедию, которую может редактировать каждый.
+sv
+Välkommen till Wikipedia
+den fria encyklopedin som alla kan redigera.
+war
+Uswag kamo ha Waray Wikipedia!
+An libre ngan gawasnon nga ensayklopedya nga bisan hin-o puyde magliwat o mag-edit.
 fi
 Tervetuloa Wikipediaan,
 vapaaseen tietosanakirjaan.

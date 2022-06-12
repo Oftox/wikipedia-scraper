@@ -38,4 +38,4 @@ Files "languages.txt" and "translations.txt" are supposed to be read by the prog
   
   ꞏ  Show related results to search.
   
-  ꞏ  Output subheading and possibly pictures
+  ꞏ  Output subheading and Notes at the end of wikipedia pages

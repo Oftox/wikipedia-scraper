@@ -1,6 +1,6 @@
 #--------------------------------
 #Created by Oftox 
-#Date: ??.06.2022
+#Date: 06.2022 (MM/YYYY)
 #--------------------------------
 import sys
 import requests

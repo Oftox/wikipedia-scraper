@@ -8,27 +8,26 @@ It can be used to search for wikipedia articles, and is basically a text-based W
 wikipedia-scraper takes in one parameter, the language abbreviation used by wikipedia in the URL. 
 
 Currently the supported abbreviations include: 
-```
-'pl' for Polish
-'en' for English
-'it' for Italian
-'ja' for Japanese
-'ceb' for Cebuano
-'uk' for Ukranian
-'zh' for Chinese
-'ar' for Arabian
-'es' for Spanish
-'arz' for Egyptian Arabian
-'pt' for Portuguese
-'vi' for Vietnamese
-'de' for German
-'fr' for France
-'nl' for Netherlands
-'ru' for Russian
-'sv' for Swedish
-'war' for Magyar
-'fi' for Finnish 
-```
+> 'pl' for Polish
+> 'en' for English
+> 'it' for Italian
+> 'ja' for Japanese
+> 'ceb' for Cebuano
+> 'uk' for Ukranian
+> 'zh' for Chinese
+> 'ar' for Arabian
+> 'es' for Spanish
+> 'arz' for Egyptian Arabian
+> 'pt' for Portuguese
+> 'vi' for Vietnamese
+> 'de' for German
+> 'fr' for France
+> 'nl' for Netherlands
+> 'ru' for Russian
+> 'sv' for Swedish
+> 'war' for Magyar
+> 'fi' for Finnish 
+
 
 An example of usage: 
 `python3 main.py es`
@@ -40,3 +39,5 @@ Files "languages.txt" and "translations.txt" are supposed to be read by the prog
   ꞏ  Download wikipedia article to local without interface.
   
   ꞏ  Show related results to search.
+  
+  ꞏ  Output subheading and possibly pictures

@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 def content2str(content):
 	string = ""
 	for i in range(len(content)):
-		if ("</" in str(content[i])):
+		if ("</" in str(content[i]) or "<br>" in str(content[i])):
 			string += str(content[i].string)
 		else:
 			string += str(content[i])
@@ -66,6 +66,8 @@ if (abbrLine == False):
 
 welcome = lines[abbrLine + 1].replace("\n", '')
 free = lines[abbrLine + 2].replace("\n", '')
+empty = lines[abbrLine + 3].replace("\n", '')
+noarticle = lines[abbrLine + 4].replace("\n", '')
 
 #start main loop with "running" as the flag
 running = True
@@ -83,8 +85,7 @@ while (running):
 			search = input("    " + ": ")
 			if (search == "" or search == " "):
 				print("")
-				#TODO
-				print("\tSearch cannot be empty. Try again.")
+				print("\t" + empty)
 				print("")
 			else:
 				searchValid = True
@@ -100,11 +101,10 @@ while (running):
 			sys.exit()
 		page = BeautifulSoup(requested.text, 'html.parser')
 
-		resultsinfo = page.find(class_='oo-ui-fieldLayout-field')
-		if(resultsinfo != None):
-			#TODO
+		searchbar = page.find(class_='oo-ui-fieldLayout-field')
+		if(searchbar != None):
 			print("\n")
-			print("\t\tArticle not found")
+			print("\t\t" + noarticle)
 			print("\n")		
 		else:
 			firstheading = page.find(class_='firstHeading')
@@ -118,10 +118,7 @@ while (running):
 				
 		print("-" * 60) 
 		
+		
 	except KeyboardInterrupt:
 		print("\n")
 		running = False
-
-
-
-

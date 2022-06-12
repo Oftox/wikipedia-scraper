@@ -7,42 +7,24 @@ It uses the [requests](https://pypi.org/project/requests/) library for scraping 
 It can be used to search for wikipedia articles, and is basically a text-based Wikipedia client.
 wikipedia-scraper takes in one parameter, the language abbreviation used by wikipedia in the URL. 
 
-Currently the supported abbreviations include: 
-> 'pl' for Polish
-> 
-> 'en' for English
-> 
-> 'it' for Italian
-> 
-> 'ja' for Japanese
-> 
-> 'ceb' for Cebuano
-> 
-> 'uk' for Ukranian
-> 
-> 'zh' for Chinese
-> 
-> 'ar' for Arabian
-> 
-> 'es' for Spanish
-> 
-> 'pt' for Portuguese
-> 
-> 'vi' for Vietnamese
-> 
-> 'de' for German
-> 
-> 'fr' for France
-> 
-> 'nl' for Netherlands
-> 
-> 'ru' for Russian
-> 
-> 'sv' for Swedish
-> 
-> 'war' for Magyar
-> 
-> 'fi' for Finnish 
+Currently the supported abbreviations include: pl,
+en,
+it,
+ja,
+ceb,
+uk,
+zh,
+ar,
+es,
+pt,
+vi,
+de,
+fr,
+nl,
+ru,
+sv,
+war,
+fi
 
 
 An example of usage: 

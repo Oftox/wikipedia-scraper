@@ -33,6 +33,8 @@ An example of usage:
 ### Notice
 Files "languages.txt" and "translations.txt" are supposed to be read by the program, and thereby not intended to be read or tampered with by users.
 
+Some articles may have additional text like notes or HTML tags, or text not supposed to be shown.
+
 ## Unimplemented Features
   ꞏ  Download wikipedia article to local without interface.
   

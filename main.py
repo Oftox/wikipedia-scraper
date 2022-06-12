@@ -39,7 +39,7 @@ if (sys.argv[1] + "\n" in abbr):
 	language = sys.argv[1]
 	languageFile.close()
 else:
-	print("Error: invalid language abbreviation as argument (english, japanese, russian and finnish are supported)")
+	print("Error: invalid language abbreviation as argument (supported languages can be found in the README file)")
 	sys.exit()
 
 

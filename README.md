@@ -33,11 +33,9 @@ An example of usage:
 ### Notice
 Files "languages.txt" and "translations.txt" are supposed to be read by the program, and thereby not intended to be read or tampered with by users.
 
-Some articles may have additional text like "None", please report to me if you see any.
+Some articles may apper different from how the appear in the Wikipedia site, please report any oocurences.
 
 ## Unimplemented Features
   ꞏ  Download wikipedia article to local without interface.
   
   ꞏ  Show related results to search.
-  
-  ꞏ  Output subheading and Notes at the end of wikipedia pages

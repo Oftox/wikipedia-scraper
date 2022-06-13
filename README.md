@@ -41,3 +41,5 @@ Some articles may apper different from how the appear in the Wikipedia site, ple
   ꞏ  Show related results to search.
   
   ꞏ  Default command line parameter
+  
+  ꞏ  Support for links

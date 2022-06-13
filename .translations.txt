@@ -1,0 +1,90 @@
+pl
+Witaj w Wikipedii,
+wolnej encyklopedii, którą każdy może redagować.
+Wyszukiwanie nie może być puste. Spróbuj ponownie.
+Nie znaleziono artykułu.
+en
+Welcome to Wikipedia
+the free encyclopedia that anyone can edit.
+Search cannot be empty. Try again.
+Article not found.
+it
+Benvenuti su Wikipedia
+L'enciclopedia libera e collaborativa
+La ricerca non può essere vuota. Riprova.
+Articolo non trovato.
+ja
+ウィキペディアへようこそ
+ウィキペディアは誰でも編集できるフリー百科事典です
+検索を空にすることはできません。再試行。
+記事が見つかりません。
+ceb
+Wikipedya,
+ang libre ug gawasnong ensiklopedya.
+Ang pagpangita dili mahimong walay sulod. Sulayi pag-usab.
+Artikulo wala makit-an.
+uk
+Ласкаво просимо до Вікіпедії,
+вільної енциклопедії, яку може редагувати кожен.
+Пошук не може бути пустим. Спробуйте ще раз.
+Стаття не знайдена.
+zh
+维基百科
+人人可編輯的自由百科全書
+搜索不能为空。再试一次。
+未找到文章。
+ar
+مرحبًا بكم في ويكيبيديا
+مشروع موسوعة حرة يستطيع الجميع تحريرها.
+لا يمكن أن يكون البحث فارغًا. حاول مرة أخرى.
+لم يتم العثور على المادة.
+es
+Bienvenidos a Wikipedia,
+la enciclopedia de contenido libre que todos pueden editar.
+La búsqueda no puede estar vacía. Intentar otra vez.
+Artículo no encontrado.
+pt
+Boas-vindas à Wikipédia,
+a enciclopédia livre que todos podem editar.
+A pesquisa não pode estar vazia. Tente novamente.
+Artigo não encontrado.
+vi
+WIKIPEDIA TIẾNG VIỆT
+Bạn chính là tác giả của Wikipedia
+Tìm kiếm không được để trống. Thử lại.
+Không có bài báo nào được tìm thấy.
+de
+Willkommen bei Wikipedia
+Wikipedia ist ein Projekt zum Aufbau einer Enzyklopädie aus freien Inhalten, zu denen du sehr gern beitragen kannst.
+Die Suche darf nicht leer sein. Versuchen Sie es nochmal.
+Artikel nicht gefunden.
+fr
+Wikipedia
+L'encyclopédie libre que vous pouvez améliorer
+La recherche ne peut pas être vide. Réessayer.
+Article introuvable.
+nl
+Welkom op Wikipedia
+De vrije encyclopedie
+Zoekopdracht mag niet leeg zijn. Probeer het nog eens.
+Artikel niet gevonden.
+ru
+Добро пожаловать в Википедию,
+свободную энциклопедию, которую может редактировать каждый.
+Поиск не может быть пустым. Попробуйте еще раз.
+Статья не найдена.
+sv
+Välkommen till Wikipedia
+den fria encyklopedin som alla kan redigera.
+Sökningen kan inte vara tom. Försök igen.
+Artikeln hittades inte.
+war
+Uswag kamo ha Waray Wikipedia!
+An libre ngan gawasnon nga ensayklopedya nga bisan hin-o puyde magliwat o mag-edit.
+A keresés nem lehet üres. Próbáld újra.
+A cikk nem található.
+fi
+Tervetuloa Wikipediaan,
+vapaaseen tietosanakirjaan.
+Haku ei voi olla tyhjä. Yritä uudelleen.
+Artikkelia ei löydy.

@@ -39,3 +39,5 @@ Some articles may apper different from how the appear in the Wikipedia site, ple
   ꞏ  Download wikipedia article to local without interface.
   
   ꞏ  Show related results to search.
+  
+  ꞏ  Default command line parameter

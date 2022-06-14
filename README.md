@@ -31,7 +31,7 @@ An example of usage:
 `python3 main.py es`
 
 ### Notice
-Files "languages.txt" and "translations.txt" are supposed to be read by the program, and thereby not intended to be read or tampered with by users.
+Files ".languages.txt" and ".translations.txt" are supposed to be read by the program, and thereby not intended to be read or tampered with by users.
 
 Some articles may apper different from how the appear in the Wikipedia site, please report any oocurences.
 

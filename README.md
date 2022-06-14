@@ -33,7 +33,7 @@ An example of usage:
 ### Notice
 Files ".languages.txt" and ".translations.txt" are supposed to be read by the program, and thereby not intended to be read or tampered with by users.
 
-Some articles may apper different from how the appear in the Wikipedia site, please report any oocurences.
+This project is still being developed and has a lot of bug regarding the printing of articles
 
 ## Unimplemented Features
   ꞏ  Download wikipedia article to local without interface.
